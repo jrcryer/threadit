@@ -17,7 +17,7 @@
 		1AC2625016F63A11000E2367 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AC2624F16F63A11000E2367 /* Default@2x.png */; };
 		1AC2625216F63A11000E2367 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AC2625116F63A11000E2367 /* Default-568h@2x.png */; };
 		1AC2625516F63A11000E2367 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AC2625316F63A11000E2367 /* MainStoryboard.storyboard */; };
-		1AC2625816F63A11000E2367 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AC2625716F63A11000E2367 /* ViewController.m */; };
+		1AC2625816F63A11000E2367 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AC2625716F63A11000E2367 /* HomeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,8 +35,8 @@
 		1AC2624F16F63A11000E2367 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		1AC2625116F63A11000E2367 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		1AC2625416F63A11000E2367 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		1AC2625616F63A11000E2367 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		1AC2625716F63A11000E2367 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		1AC2625616F63A11000E2367 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		1AC2625716F63A11000E2367 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,8 +86,8 @@
 				1AC2624A16F63A11000E2367 /* AppDelegate.h */,
 				1AC2624B16F63A11000E2367 /* AppDelegate.m */,
 				1AC2625316F63A11000E2367 /* MainStoryboard.storyboard */,
-				1AC2625616F63A11000E2367 /* ViewController.h */,
-				1AC2625716F63A11000E2367 /* ViewController.m */,
+				1AC2625616F63A11000E2367 /* HomeViewController.h */,
+				1AC2625716F63A11000E2367 /* HomeViewController.m */,
 				1AC2624216F63A11000E2367 /* Supporting Files */,
 			);
 			path = ThreadIt;
@@ -175,7 +175,7 @@
 			files = (
 				1AC2624816F63A11000E2367 /* main.m in Sources */,
 				1AC2624C16F63A11000E2367 /* AppDelegate.m in Sources */,
-				1AC2625816F63A11000E2367 /* ViewController.m in Sources */,
+				1AC2625816F63A11000E2367 /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
