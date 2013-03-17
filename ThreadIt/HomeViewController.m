@@ -10,6 +10,9 @@
 
 @interface HomeViewController ()
 
+- (void)counterTask;
+- (void)colorRatatorTask;
+
 @end
 
 @implementation HomeViewController

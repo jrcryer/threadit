@@ -20,7 +20,4 @@
 - (IBAction)didPressSecondColor:(id)sender;
 - (IBAction)didPressThirdColor:(id)sender;
 
-- (void)counterTask;
-- (void)colorRatatorTask;
-
 @end
